@@ -1,0 +1,23 @@
+p{
+    background-color: antiquewhite;
+    color: red;
+}
+h1{
+    color: brown;
+}
+/* div{
+    height: 100px;
+    width: 100px; 
+    color: rgb(24, 71, 24);
+    background-color: burlywood;
+    border-radius: 25px;
+
+} */
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 14px;
+    /* padding: 24px; */
+    /* margin: 25px; */
+}
